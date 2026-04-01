@@ -15,8 +15,11 @@ To write a Python program that accepts a string and removes the character at a s
 8. Print the final result.
 
 ## 💻 Program
-Add Code Here
+def remove(s) : s1=s[0:3] + s[4:] print(s1) s=input()
 
 ## Output
+<img width="745" height="151" alt="image" src="https://github.com/user-attachments/assets/f8f24524-f729-4d92-8073-e61c4a939677" />
 
 ## Result
+Thus the Python program that accepts a string and removes the character at a specified
+index was successfully completed
